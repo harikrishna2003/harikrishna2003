@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harikrishna Pillai
 - 👀 I’m interested in Programming, Cybersecurity and AIML
-- 🌱 I’m currently learning computer science and engineering 
+- 🌱 I’m currently pursuing computer science and engineering 
 - 📫 How to reach me email id : pillaihari2003@gmail.com...
 
 <!---
